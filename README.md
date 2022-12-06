@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur Onat</h1>
 <h3 align="center">I develop frontend, backend and mobile applications from my home in Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuronat001&label=Profile%20views&color=0e75b6&style=flat" alt="onuronat001" /> </p>
 
 - 🔭 I’m currently working on **Logistics, Astronomy, Video Call Technologies**
 
