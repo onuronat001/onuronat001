@@ -2,7 +2,7 @@
 <h3 align="center">I develop frontend, backend and mobile applications from my home in Turkey</h3>
 
 
-- 🔭 I’m currently working on **Logistics, Astronomy, Video Call Technologies**
+- 🔭 I’m currently working on **Logistics, Video Call Technologies**
 
 - 🌱 I’m currently learning **Go Lang**
 
